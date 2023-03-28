@@ -16,3 +16,8 @@ Phase diagram: $p,q$ with three different phases.
   - With probability $p$, remove the link. Otherwise, change the opinion assigning $\sigma_i = \sigma_j$.
 
 $q$ is a parameter and $\rho_i = a_i/k_i$, with $a_i$ being the number of active links and connecting $i$ to a node in a different state, and $k_i$ its degree
+
+
+### Authors 
+ Barros I$^1$., Carpio M$^2$., Cota W$3$ & de Moraes J$^1$
+$^1$UFV, $^2$UITEY, $^3$MT-USP & FMB-Unesp
