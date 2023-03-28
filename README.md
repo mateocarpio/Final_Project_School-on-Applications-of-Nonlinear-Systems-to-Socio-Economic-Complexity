@@ -19,5 +19,6 @@ $q$ is a parameter and $\rho_i = a_i/k_i$, with $a_i$ being the number of active
 
 
 ### Authors 
- Barros I$^1$., Carpio M$^2$., Cota W$3$ & de Moraes J$^1$
-$^1$UFV, $^2$UITEY, $^3$MT-USP & FMB-Unesp
+ Barros I¹., Carpio M.², Cota W³ & de Moraes J¹
+ 
+¹UFV, ²UITEY, ³MT-USP & FMB-Unesp
